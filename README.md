@@ -25,13 +25,14 @@
 
 ## Education
 
+- 📖 **Postgraduate in Full Stack Web Development**\
+📆 2020 - Moment\
+📍 **Unyleya** - Distance learning, Brazil
+
 - 📖 **Analysis and Systems Development**\
 📆 2017 - 2020\
 📍 **UNISAL - Centro Universitário Salesiano de São Paulo** - Campinas-SP, Brazil
 
-- 📖 **Postgraduate in Full Stack Web Development**\
-📆 2020 - Moment\
-📍 **Unyleya** - Distance learning, Brazil
 
 ## Experience
 
