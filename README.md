@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Souza Campos and I'm a Full Stack Developer, from Brazil</h2>
+<h2 align="left">Hi! My name is Gabriel Souza Campos and I'm a Full Stack Developer, from Brazil</h2>
 
 ###
 
