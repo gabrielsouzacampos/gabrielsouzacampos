@@ -28,5 +28,3 @@
   </div>
 
 ###
-
-<br clear="both">
