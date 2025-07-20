@@ -1,18 +1,18 @@
 # Hi there! 👋
 
-I'm Gabriel Souza Campos, a seasoned Full Stack Developer with over 4 years of hands-on experience in the .NET ecosystem. My expertise spans a range of technologies, with a focus on proficiency in Git, Oracle, .NET, and JQuery. Currently, I'm delving into the exciting world of Blazor and honing my soft skills, particularly in team management and leadership.
+I'm Gabriel Souza Campos, a seasoned Full Stack Developer with over 7 years of hands-on experience in the .NET ecosystem. My expertise spans a range of technologies, with a focus on proficiency in Git, Oracle, .NET, and React.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** C#, JavaScript
-- **Frameworks:** .NET, Blazor
-- **Databases:** Oracle
-- **Frontend:** HTML, CSS, jQuery, Razor
+- **Frameworks:** .NET, React
+- **Databases:** Oracle, Postgresql, MongoDB
+- **Frontend:** HTML, CSS, React, Razor
 - **Version Control:** Git
 
 ## 🚀 What I'm Up To
 
-- **Learning Blazor:** Exploring the possibilities of Blazor and its integration within the .NET stack to enhance my toolkit.
+- **Improving React:** Exploring the possibilities of React and its integration within the .NET stack to enhance my toolkit.
 - **Soft Skills Development:** Actively working on cultivating skills in team management and leadership, understanding the crucial balance between technical prowess and effective teamwork.
 
 ## 🏢 Professional Experience
