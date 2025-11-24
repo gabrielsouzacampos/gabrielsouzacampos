@@ -1,32 +1,58 @@
-# Hi there! 👋
+# 🌐 Gabriel Souza Campos  
+### *Software Developer | .NET Developer | C++ Developer*
 
-I'm Gabriel Souza Campos, a seasoned Full Stack Developer with over 7 years of hands-on experience in the .NET ecosystem. My expertise spans a range of technologies, with a focus on proficiency in Git, Oracle, .NET, and React.
+---
 
-## 🔧 Technologies & Tools
+## 🧑‍💻 About Me  
 
-- **Languages:** C#, JavaScript
-- **Frameworks:** .NET, React
-- **Databases:** Oracle, Postgresql, MongoDB
-- **Frontend:** HTML, CSS, React, Razor
-- **Version Control:** Git
+I’m Gabriel Souza Campos, a backend-oriented developer with solid experience in the **.NET ecosystem**, specializing in building structured, maintainable, and scalable backend services.
 
-## 🚀 What I'm Up To
+My experience includes backend application development, real-time operational systems, and data-intensive environments using both **C#/.NET** and **C++**. I value clean architecture, modular design, and robust implementations that last.
 
-- **Improving React:** Exploring the possibilities of React and its integration within the .NET stack to enhance my toolkit.
-- **Soft Skills Development:** Actively working on cultivating skills in team management and leadership, understanding the crucial balance between technical prowess and effective teamwork.
+---
 
-## 🏢 Professional Experience
+## 🧩 Technologies & Tools  
 
-I've had the privilege of contributing to projects on a large scale, showcasing my ability to navigate complex development environments. My experience extends to remote work, where I've successfully collaborated with diverse teams to deliver high-quality solutions.
+### **Core Expertise**
+- **.NET**  
+- **C#**  
+- **C++**  
 
-## 🌐 Remote Work
+### **Databases**
+- **Oracle Database**  
+- **PostgreSQL**  
+- **MongoDB**
 
-Having a strong background in remote collaboration, I understand the dynamics and challenges of working in distributed teams. My adaptability ensures seamless communication and efficient delivery, regardless of geographical constraints.
+### **Tools & Platforms**
+- **Docker**  
+- **Git & GitHub / SVN**
+- **Swagger / OpenAPI**
+- **CI/CD fundamentals (GitHub Actions, pipelines)**
 
-## 📫 Let's Connect
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielsouzacampos/) for professional discussions and collaborations. You can also reach out to me via email at [gabriel.s.campos@hotmail.com](mailto:gabriel.s.campos@hotmail.com).
+## 🧠 Principles & Practices
+- **Clean Architecture**
+- **SOLID**
+- **Domain-oriented design**
+- **Unit and Integration Testing**
+- **API design best practices**
+- **Modular services**
 
-Looking forward to exploring new opportunities, sharing knowledge, and contributing to impactful projects! 🚀
+---
 
-Happy coding! 👨‍💻✨
+## 📘 Current Focus & Learning
+
+- Advanced backend engineering with **.NET 9**  
+- Modern C++ applied to enterprise-level solutions  
+- Clean Architecture across languages  
+- Backend design patterns, services, modularization  
+- SQL optimization techniques  
+- Deepening understanding of **operational and logistics software domains**  
+
+---
+
+## 🤝 Let’s Connect 
+
+📧 **Email:** [gabriel.s.campos@hotmail.com](mailto:gabriel.s.campos@hotmail.com)
+📎 **LinkedIn:** [https://www.linkedin.com/in/gabrielsouzacampos/](https://www.linkedin.com/in/gabrielsouzacampos/)  
